@@ -1,0 +1,4 @@
+sudo hostnamectl set-hostname web.qhost.co.id
+sudo hostnamectl set-hostname "QWT Cloud ID" --pretty
+sudo hostnamectl set-hostname web.qhost.co.id --static
+sudo hostnamectl set-hostname web.qhost.co.id --transient
